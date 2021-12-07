@@ -1,5 +1,3 @@
-console.log("asf")
-
 
 
 let a = true;
